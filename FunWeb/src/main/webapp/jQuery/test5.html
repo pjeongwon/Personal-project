@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>jQuery/test5.html</title>
+<script src="../script/jquery-3.6.0.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		// .ajax() 대신에 json전용 ajax => getJSON 제공
+		$.getJSON('test5.jsp', function(rdata){
+			// rdata 변수 test5.jsp에서 json데이터 가져오기
+		
+		$.each(rdata, function(index, item){
+			
+// 			alert(index);
+// 			alert(item.num);
+// 			alert(item.subject);
+			$('table').append('<tr><td>' + item.num + '</td><td>' + item.subject + '</td></tr>');
+		});
+		});
+	});
+
+</script>
+</head>
+<body>
+<table border="1">
+<tr><td>번호</td><td>제목</td></tr>
+</table>
+</body>
+</html>
