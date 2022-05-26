@@ -2,9 +2,13 @@
 
 홈 화면
 
-![image](https://user-images.githubusercontent.com/92214330/170328626-586d48fd-0829-40e3-bbc2-4e8283d84483.png)
+![image](https://user-images.githubusercontent.com/92214330/170410507-d61056ba-39bc-498a-88d4-3de6946100e7.png)
 
 회원가입 화면(아이디 중복 체크, 우편번호 검색 api사용
+
+![image](https://user-images.githubusercontent.com/92214330/170328626-586d48fd-0829-40e3-bbc2-4e8283d84483.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/92214330/170329127-4adee0b5-5677-4b73-8a67-d65a426d2e47.png)
 
