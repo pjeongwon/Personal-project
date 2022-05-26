@@ -15,4 +15,5 @@
 ![image](https://user-images.githubusercontent.com/92214330/170329583-144013f7-0130-45dd-92ab-ccda3fcbff9e.png)
 
 회원 정보 수정(가입 시 입력했던 정보 보여줌, 수정)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/92214330/170410280-14f32060-fe94-4625-b9f4-659bec634e30.png)
+
